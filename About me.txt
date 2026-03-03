@@ -1,0 +1,4 @@
+Name: K Palani Kumar
+Department: ECE
+Interest: IoT, Embedded Systems, AI Tools
+This is my first GitHub repository.
